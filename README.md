@@ -1,2 +1,2 @@
 # Programming-lab
-Programming Lab
+A collection of lab exercises, programs, and assignments completed as part of the college Programming Lab course.
